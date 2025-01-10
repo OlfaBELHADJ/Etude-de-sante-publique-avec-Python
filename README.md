@@ -10,7 +10,7 @@ Réalisation d’une étude de grande ampleur sur le thème de l’alimentation 
 
 **Compétences**:
 
--Analyse de données.
+-Analyser des données.
 
 -Programmer avec Python.
 
