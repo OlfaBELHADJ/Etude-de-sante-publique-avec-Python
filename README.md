@@ -14,4 +14,4 @@ Réalisation d’une étude de grande ampleur sur le thème de l’alimentation 
 
 -Programmer avec Python.
 
--Créer un NoteBoook.
+-Créer un NoteBook.
